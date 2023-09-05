@@ -21,7 +21,7 @@ We have three fixed users. (wallet address is fixed)
  
 Now, you can start first step as choosing the user.
 
-### 1. Choose the Satoshi. and Check the balance and Click the Tokens button.
+### 1. Choose the Satoshi. and Check the balance.
 
 You choose the Satoshi who is the creator of Bitcoin.
 
@@ -38,7 +38,7 @@ Eary period of bitcoin, reward of the mining is 50 BTC but this reward has halve
 
 
 
-### 2. Choose the Vitalik. and Check the balance and Click the Tokens button.
+### 2. Choose the Vitalik. and Check the balance.
 
 Click back button twice and You choose the Vitalik who is the creator of Ethereum.
 Click the Vitalik bar and window transit to the balance window.
@@ -50,7 +50,7 @@ Many people may be suprised when you see the vitalik's balance. It is somewhat s
 Remember. Vitalik's ethereum address is not only one.
 
 
-### 3. Choose the Peccy. and Check the balance and Click the Tokens button..
+### 3. Choose the Peccy. and Check the balance.
 
 Click back button twice and You choose the Peccy  who has the bitcoin address and ethereum address.
 Click the Peccy bar and window transit to the balance window.
@@ -69,3 +69,5 @@ url : https://etherscan.io/address/0x188B264AA1456B869C3a92eeeD32117EbB835f47
 
 ![Main front window](/contents/static/02-token-balance/01-token-balance-query-wallet/peccy_etherscan.png)
 
+----
+Next: [Query Token Transaction List](../../03-token-trx-list/index.en.md)

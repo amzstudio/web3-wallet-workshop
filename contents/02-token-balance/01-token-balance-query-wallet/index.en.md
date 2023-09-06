@@ -14,7 +14,7 @@ We can set up the env file that includes the wallet addresses and API addresses 
 
 We have three fixed users. (wallet address is fixed)
 
-* Satoshi : Creator of Bitcoin, who has a transaction at genesis block.
+* Satoshi : Creator of Bitcoin, who created first transaction and genesis block.
 * Vitalik : Creator of Ethereum, he has various tokens including ERC-20, 721
 * Peccy : Virtual user who has bitcoin and ethereum including tokens both.
 

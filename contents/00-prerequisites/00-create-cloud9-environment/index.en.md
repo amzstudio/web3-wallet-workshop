@@ -36,5 +36,17 @@ terminal:
 sudo yum install -y jq
 ```
 
+Import matter : we have to increase the storage size.
+
+```bash
+sudo yum install -y jq
+```
+
+And we are resizing the volume size of the cloud9 environment.
+```bash
+sudo sh resize.sh 100
+```
+
+
 ----
 Move to Next: [Configure IAM](../01-iam-configuration/index.en.md)

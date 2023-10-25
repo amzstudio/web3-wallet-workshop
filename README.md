@@ -43,6 +43,6 @@ Let's make a your first blockchain wallet with AMB Query.
 - [4. List of Tokens](./contents/04-token-list/index.en.md): Learn how to get list of tokens
 - [5. (Optional) Use Query Editor from Console](./contents/05-optional-query-console/index.en.md): Learn how to use Query Editor from Console
 - [6. (Optional) AMB Access Serverless](./contents/06-optional-amb-access/index.en.md): Learn how to make request to AMB Access Serverless 
-
+- [7. Clean up the resources](./contents/07-clean-up-resources/index.en.md): Clean up the resources
 
 Let's go, 가즈아!
